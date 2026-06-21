@@ -54,11 +54,11 @@ src/
 
 ## Video demostrativo
 
-[Completar enlace al video aquí]
+https://drive.google.com/file/d/13ezeH4pnpn1vu_JRUrPZmLGavqBBVb90/view?usp=drive_link
 
 ## Documentación (PDF)
 
-[Completar enlace o adjuntar el PDF en la raíz del repositorio]
+https://drive.google.com/file/d/1q4KdqGzMhwNRQDr8B_i1GnI07KjMTocO/view?usp=drive_link
 
 ## Autores
 
